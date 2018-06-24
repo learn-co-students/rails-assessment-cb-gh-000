@@ -1,4 +1,4 @@
-# Build a Rails App
+# Build a Rails App;
 
 ## Overview
 
